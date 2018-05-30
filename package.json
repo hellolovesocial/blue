@@ -1,0 +1,22 @@
+{
+  "name": "blue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellolovesocial/blue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellolovesocial/blue/issues"
+  },
+  "homepage": "https://github.com/hellolovesocial/blue#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
